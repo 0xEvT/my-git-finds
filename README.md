@@ -13,3 +13,7 @@ Interesting repos I've come across — not my own projects, just things worth bo
 ## macOS / Productivity
 
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) — Free, open-source, local-first macOS menu bar toolkit that replaces a dozen paid Mac apps with one icon: per-app volume (boost past 100%), system monitor, better app switcher, window snapping, Dock previews, clipboard history, text snippets, file shelf, uninstaller. Install only the modules you use; no account, telemetry, or subscription.
+
+## Lists & Collections
+
+- [zenteek-radio-stations.md](./zenteek-radio-stations.md) — Curated internet-radio stream URLs for the [Zenteek](https://zenteek.app/) player, grouped by sound and quality (lossless FLAC first, then SomaFM lounge/chill, Radio France, and other French stations).
