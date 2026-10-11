@@ -18,11 +18,23 @@ A curated list of internet radio streams for [Zenteek](https://zenteek.app/), gr
 | Radio Paradise — Main | `https://stream.radioparadise.com/flacm` | main mix |
 | Radio Paradise — Serenity | `https://stream.radioparadise.com/serenity` | beatless ambient |
 | MaXXima | `http://maxxima.mine.nu:8000/maxx.ogg` | Swiss electronica |
-| PureClassix Lounge | `https://mscp4.live-streams.nl:8142/lounge.ogg` | lounge |
+| Pure Lounge Radio | `https://mscp4.live-streams.nl:8142/lounge.ogg` | lounge (URL unchanged; earlier mislabeled "PureClassix") |
 | Sector Space | `http://89.223.45.5:8000/space-flac` | space ambient |
 | Radio Sputnik | `https://radiosputnik.nl:8443/flac` | techno |
 | Intense Radio | `https://secure.live-streams.nl/flac.flac` | dance, 24-bit |
+| Intense Radio (2nd program) | `https://secure.live-streams.nl/flac2.ogg` | same station, different programme |
 | Dance Wave | `http://dancewave.online/dance.flac.ogg` | dance |
+| Radio Calico | `https://stream.radio-calico.com/calico` | US, 24-bit/48 kHz, ad-free; alt URL `http://roon.radio-calico.com:8000/roon` if it stops after each track. Alt/rock, not chill — top-tier free hi-res |
+| SmoothJazz.com.pl | `https://bcast.vigormultimedia.com:48888/sjcomplflac` | Poland, FLAC 16/44.1; 24/7 smooth jazz, no ads/jingles/voice. Catalog-verified CD source |
+| ISEKOI Chill Zone | `https://isekoi-radio.com/listen/chill/radio.flac` | France, FLAC 16/48; relaxed electronica, Japanese sci-fi lean |
+| ISEKOI Ambient | `https://isekoi-radio.com/listen/ambient/ambientradio.flac` | same broadcaster, calm atmospheric soundscapes |
+| Djam Radio | `https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio` | France, eclectic; verified CD source |
+| Pure Radio Holland — DownTempo | `https://streamserver.pure-isp.eu/radio/8040/flac` | Netherlands, slow electronica / chillout |
+| Naim Jazz | `http://mscp3.live-streams.nl:8340/jazz-flac.flac` | British jazz by Naim Audio (on air since 2005) |
+| Naim Radio (main) | `https://mscp3.live-streams.nl:8362/flac.flac` | Naim Audio main channel |
+
+> Many hi-res picks above are tracked at [audiophileradio.com](https://audiophileradio.com/) (launched Dec 2025, streams checked daily — 117 stations as of this update).
+> **Radio Paradise** also has a newer **KFAT** (folk) channel listed in that catalog; no direct stream URL found yet.
 
 ---
 
