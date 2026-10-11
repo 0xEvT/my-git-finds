@@ -8,7 +8,7 @@ A curated list of internet radio streams for [Zenteek](https://zenteek.app/), gr
 
 ## 🎧 Lossless (FLAC / hi-res)
 
-<table>
+<table width="100%">
 <colgroup><col width="20%"><col width="42%"><col width="38%"></colgroup>
 <thead><tr><th>Station</th><th>Stream URL</th><th>Notes</th></tr></thead>
 <tbody>
@@ -44,7 +44,7 @@ A curated list of internet radio streams for [Zenteek](https://zenteek.app/), gr
 
 ## ☕ SomaFM — lounge & chill (MP3 128 / AAC)
 
-<table>
+<table width="100%">
 <colgroup><col width="20%"><col width="42%"><col width="38%"></colgroup>
 <thead><tr><th>Station</th><th>Stream URL</th><th>Notes</th></tr></thead>
 <tbody>
@@ -64,7 +64,7 @@ A curated list of internet radio streams for [Zenteek](https://zenteek.app/), gr
 
 ## 🇫🇷 Radio France
 
-<table>
+<table width="100%">
 <colgroup><col width="20%"><col width="42%"><col width="38%"></colgroup>
 <thead><tr><th>Station</th><th>Stream URL</th><th>Notes</th></tr></thead>
 <tbody>
@@ -81,7 +81,7 @@ A curated list of internet radio streams for [Zenteek](https://zenteek.app/), gr
 
 ## 🇫🇷 France — other
 
-<table>
+<table width="100%">
 <colgroup><col width="20%"><col width="42%"><col width="38%"></colgroup>
 <thead><tr><th>Station</th><th>Stream URL</th><th>Notes</th></tr></thead>
 <tbody>
