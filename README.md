@@ -13,6 +13,7 @@ Interesting repos I've come across — not my own projects, just things worth bo
 ## macOS / Productivity
 
 - [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) — Free, open-source, local-first macOS menu bar toolkit that replaces a dozen paid Mac apps with one icon: per-app volume (boost past 100%), system monitor, better app switcher, window snapping, Dock previews, clipboard history, text snippets, file shelf, uninstaller. Install only the modules you use; no account, telemetry, or subscription.
+- [llamaboi55/DragShift](https://github.com/llamaboi55/DragShift) — Cross-platform (Win/Mac/Linux) file converter/editor: drag any file, press Shift, drop it on a slice of a radial menu. Converts/compresses/resizes/crops images, PDF merge/split/rotate/compress/AES-256-encrypt/extract, Word/Text↔PDF, plus metadata strip and redact. Python + PySide6, MIT, local-only — reviewed the source: no network, no telemetry, doesn't read the clipboard (only writes a result on the "Copy" button). Caveat for the security-minded: it's unsigned/unnotarized and the mac install script runs `xattr -dr com.apple.quarantine` to bypass Gatekeeper, so running from source (`python -m dragshift` in a venv) is safer than the prebuilt .dmg.
 
 ## AI / Dev-Tools (agents / Claude Code)
 
